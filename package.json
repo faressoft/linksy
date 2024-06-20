@@ -1,6 +1,6 @@
 {
   "name": "linksy",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "CLI tool for quickly accessing your links and nested bookmarks with fuzzy search",
   "main": "bin/app.js",
   "author": "Mohammad Fares <faressoft.com@gmail.com>",
