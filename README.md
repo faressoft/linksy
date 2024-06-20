@@ -1,7 +1,7 @@
 # Linksy
 
 [![npm](https://img.shields.io/npm/v/linksy.svg)](https://www.npmjs.com/package/linksy)
-[![npm](https://img.shields.io/npm/l/linksy.svg)](https://github.com/faressoft/linksy/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/l/linksy.svg)](https://github.com/faressoft/linksy/blob/main/LICENSE)
 
 > CLI tool for quickly accessing your links and nested bookmarks with fuzzy search
 
