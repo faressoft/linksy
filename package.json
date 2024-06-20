@@ -1,0 +1,57 @@
+{
+  "name": "linksy",
+  "version": "0.1.0",
+  "description": "CLI tool for quickly accessing your links and nested bookmarks with fuzzy search",
+  "main": "bin/app.js",
+  "author": "Mohammad Fares <faressoft.com@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "links": "bin/app.js",
+    "linksy": "bin/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faressoft/linksy.git"
+  },
+  "keywords": [
+    "links",
+    "link",
+    "bookmark",
+    "bookmarks",
+    "bookmarked",
+    "quick",
+    "access",
+    "open",
+    "fuzzy",
+    "search",
+    "list",
+    "cli",
+    "terminal",
+    "tool",
+    "dev",
+    "prod",
+    "nested",
+    "devops",
+    "developer",
+    "cli",
+    "command-line",
+    "fuzzy-search",
+    "productivity",
+    "automation",
+    "navigation"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "conf": "^13.0.0",
+    "fuzzy": "^0.1.3",
+    "inquirer": "9.0.0",
+    "inquirer-autocomplete-prompt": "^3.0.1",
+    "js-yaml": "^4.1.0",
+    "opn": "^6.0.0"
+  }
+}
