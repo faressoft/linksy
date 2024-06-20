@@ -5,7 +5,7 @@
 
 > CLI tool for quickly accessing your links and nested bookmarks with fuzzy search
 
-**It opens the link in the browser.**
+**It opens the selected link in your default browser.**
 
 <p align="center">
   <a href="https://www.terminalizer.com/view/c867d33c5962" target="_blank">
@@ -67,7 +67,22 @@ linksy
 
 # Configuration
 
-Here is the tempate:
+Syntax:
+
+```yaml
+LinkName: 'URL'
+AnotherLinkName: 'URL'
+NestedLinks:
+  LinkName: 'URL'
+  AnotherLinkName: 'URL'
+  NestedLinks:
+    LinkName: 'URL'
+    AnotherLinkName: 'URL'
+```
+
+Here is a sample:
+
+> This is just a template, feel free to remove everything and add your own links
 
 ```yaml
 Jira: 'https://example.atlassian.net/jira/software/projects/EXA/boards/000'
