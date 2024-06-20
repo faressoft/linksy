@@ -5,6 +5,8 @@
 
 > CLI tool for quickly accessing your links and nested bookmarks with fuzzy search
 
+**It opens the link in the browser.**
+
 <p align="center">
   <a href="https://www.terminalizer.com/view/c867d33c5962" target="_blank">
     <img src="/demo/demo.gif?raw=true"/>
